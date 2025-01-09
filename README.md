@@ -89,7 +89,6 @@ Stemming words to their root form
 The predict() method takes the preprocessed text, vectorizes it using the TF-IDF vectorizer, and passes it through the pre-trained machine learning model to predict whether the news is real or fake.
 ## Conclusion
 This project provides a basic framework for fake news detection using machine learning. It can be extended with more advanced techniques such as deep learning or enhanced feature engineering for improved accuracy.
-!Image 1
-!Image 2
+
 ![Image 1](assets/image1.png)
 ![Image 2](assets/image2.png)
